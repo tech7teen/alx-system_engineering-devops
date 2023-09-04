@@ -1,1 +1,1 @@
-list contents of current directory
+brings you to home directory
