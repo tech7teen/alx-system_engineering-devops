@@ -1,1 +1,1 @@
- print confused smiley
+content display
