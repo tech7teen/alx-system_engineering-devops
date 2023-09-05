@@ -1,1 +1,1 @@
-finding and deleting
+counting directories
