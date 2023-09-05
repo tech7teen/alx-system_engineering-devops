@@ -1,1 +1,1 @@
-display first 5 lines
+creating files without touch command
